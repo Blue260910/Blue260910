@@ -28,3 +28,7 @@
 
 <img align="right" alt="Gif-Blue" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/887425617379856486/997574247830528001/52-unscreen.gif">
 </div>
+
+![Snake animation](https://github.com/Blue260910/Blue260910/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
