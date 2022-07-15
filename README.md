@@ -6,7 +6,7 @@
 - ⌨️ Db2
 
 
-<div align="center">
+</div>
   <a href="https://github.com/Blue260910">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blue260910&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blue260910&layout=compact&langs_count=7&theme=dracula"/>
