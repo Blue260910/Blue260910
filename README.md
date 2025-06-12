@@ -13,31 +13,36 @@
 
 
 ### Main skills:
-![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&logoColor=orange&labelColor=)
-![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=&labelColor=0D1117)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=)&nbsp; 
-![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![GitLab](https://img.shields.io/badge/-Gitlab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![COBOL](https://img.shields.io/badge/-COBOL-0D1117?style=for-the-badge&logo=libuv&logoColor=white)
+![JCL](https://img.shields.io/badge/-JCL-0D1117?style=for-the-badge&logo=libuv&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+
 
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;![XCode](https://img.shields.io/badge/-XCODE-0D1117?style=for-the-badge&logo=xcode&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-androistudio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;![Mac](https://img.shields.io/badge/-mac-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
-![AzureDevOps](https://img.shields.io/badge/-azuredevops-0D1117?style=for-the-badge&logo=microsoft-azure&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-aws-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0D1117?style=for-the-badge&logo=azuredevops)
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=orange)
+![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
+
 
 ### Other Knowledge:
 
-![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
+![ESP32](https://img.shields.io/badge/-ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=red)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)
+![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=red)
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
