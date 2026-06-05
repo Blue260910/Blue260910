@@ -1,44 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E5A743"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=E5A743&text=Victor%20Aranda&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E5A743&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Aranda;I+from+Brasil,+SP;Im+developer+at+at+IBM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blue260910&show_icons=true&count_private=true&hide_border=true&title_color=E5A743&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Victor Aranda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blue260910&layout=compact&hide_border=true&title_color=E5A743&text_color=c9d1d9&bg_color=0d1117" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=E5A743&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Victor+Aranda;Desenvolvedor+Mainframe+%26+Full-stack;Estudante+na+FIAP;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blue260910&theme=darkhub&row=1&no-bg=False&margin-w=5&margin-h=15" />
-</p>
+## 👨‍💻 Sobre mim
 
+- 💾 Desenvolvedor **Mainframe** (COBOL / JCL)
+- 🌐 Também atuo com **Full-stack** (Java, Python, React / React Native)
+- 🎓 Estudante de **Engenharia de Software na FIAP**
+- 🇧🇷 São Paulo, Brasil
 
-### Main skills:
-![COBOL](https://img.shields.io/badge/-COBOL-0D1117?style=for-the-badge&logo=libuv&logoColor=white)
-![JCL](https://img.shields.io/badge/-JCL-0D1117?style=for-the-badge&logo=libuv&logoColor=white)
+## 🛠️ Tecnologias
+
+**Mainframe & Back-end**
+![COBOL](https://img.shields.io/badge/-COBOL-0D1117?style=for-the-badge&logo=ibm&logoColor=white)
+![JCL](https://img.shields.io/badge/-JCL-0D1117?style=for-the-badge&logo=ibm&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+
+**Front-end & Mobile**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
 
-
-
-### Tools:
-![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+**Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0D1117?style=for-the-badge&logo=azuredevops)
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=orange)
-![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&logoColor=F5792A)
-![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
+## 🚀 Projetos em destaque
 
-### Other Knowledge:
+| Projeto | Descrição |
+|---------|-----------|
+| 🌞 [Helios-SolarDeep](https://github.com/Blue260910/Helios-SolarDeep-Applied-Computer-Vision) | Detecção de flares solares M/X-class com CNN sobre imagens do satélite SDO (NASA). |
+| 🦾 [HeliosRoboticArm](https://github.com/Blue260910/HeliosRoboticArm) | Braço robótico de 4 eixos (Arduino/C++) para manipulação de carga em microgravidade. |
+| 🧭 [Compass](https://github.com/Blue260910/Global-Solutions-SOA-2) | API Java/Spring Boot para gestão de trilhas de upskilling/reskilling. |
+| 📈 [invest-app-v2](https://github.com/Blue260910/invest-app-v2) | App de investimentos em React Native + Expo. |
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
-![ESP32](https://img.shields.io/badge/-ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=red)
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)
-![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=red)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Blue260910&show_icons=true&count_private=true&hide_border=true&title_color=E5A743&icon_color=E5A743&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blue260910&layout=compact&hide_border=true&title_color=E5A743&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-forte/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blue_2609/)
+
+</div>
