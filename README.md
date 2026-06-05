@@ -58,6 +58,10 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue260910&theme=github_dark" />
 </div>
 
+<div align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Blue260910&theme=dark&hide_border=true&background=0D1117&stroke=2e343b&ring=8B949E&fire=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" />
+</div>
+
 ## 📫 Contact
 
 <div align="center">
